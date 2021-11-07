@@ -2,6 +2,7 @@ public class ContaCorrente:IPessoaFisica{
     public string Nome {get; set;}
     public string CPF {get; set;}
     public int Agencia {get; set;}
+    public int Conta {get; set;}
     public static int NumTotalContas {get; set;}
     public static double TotalComissao {get; set;}
     private double _saldo;
