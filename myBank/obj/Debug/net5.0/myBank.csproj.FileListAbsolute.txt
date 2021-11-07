@@ -1,0 +1,16 @@
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Exercicio_Avaliativo_Banco\myBank\bin\Debug\net5.0\myBank.exe
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Exercicio_Avaliativo_Banco\myBank\bin\Debug\net5.0\myBank.deps.json
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Exercicio_Avaliativo_Banco\myBank\bin\Debug\net5.0\myBank.runtimeconfig.json
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Exercicio_Avaliativo_Banco\myBank\bin\Debug\net5.0\myBank.runtimeconfig.dev.json
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Exercicio_Avaliativo_Banco\myBank\bin\Debug\net5.0\myBank.dll
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Exercicio_Avaliativo_Banco\myBank\bin\Debug\net5.0\ref\myBank.dll
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Exercicio_Avaliativo_Banco\myBank\bin\Debug\net5.0\myBank.pdb
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Exercicio_Avaliativo_Banco\myBank\obj\Debug\net5.0\myBank.csproj.AssemblyReference.cache
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Exercicio_Avaliativo_Banco\myBank\obj\Debug\net5.0\myBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Exercicio_Avaliativo_Banco\myBank\obj\Debug\net5.0\myBank.AssemblyInfoInputs.cache
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Exercicio_Avaliativo_Banco\myBank\obj\Debug\net5.0\myBank.AssemblyInfo.cs
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Exercicio_Avaliativo_Banco\myBank\obj\Debug\net5.0\myBank.csproj.CoreCompileInputs.cache
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Exercicio_Avaliativo_Banco\myBank\obj\Debug\net5.0\myBank.dll
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Exercicio_Avaliativo_Banco\myBank\obj\Debug\net5.0\ref\myBank.dll
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Exercicio_Avaliativo_Banco\myBank\obj\Debug\net5.0\myBank.pdb
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Exercicio_Avaliativo_Banco\myBank\obj\Debug\net5.0\myBank.genruntimeconfig.cache
